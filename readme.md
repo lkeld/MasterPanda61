@@ -2,4 +2,4 @@
 
 <h2> 🚀About Me </h2>
 
-<h3> I'm a 14 year developer <h3>
+<h3> I'm a 14 y/o developer <h3>
