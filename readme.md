@@ -9,9 +9,8 @@
 
   <h3> Contact </h3>
   
-  <i class="fab fa-discord"></i>
-  
   <Center> <img src="https://discord.c99.nl/widget/theme-3/562537207517413376.png" </img> </center>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MasterPanda61)](https://github.com/anuraghazra/github-readme-stats)
 
   
   
