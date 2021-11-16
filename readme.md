@@ -5,3 +5,5 @@
 <h3> I'm a  y/o developer <h3>
   
   <h3> im still making this thing its not done yet i just forgor 💀 about it </h3>
+
+  <Center> <img src="https://discord.c99.nl/widget/theme-3/562537207517413376.png" </img> </center>
