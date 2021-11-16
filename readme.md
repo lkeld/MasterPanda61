@@ -1,4 +1,3 @@
-<script src="https://kit.fontawesome.com/186fbc4515.js" crossorigin="anonymous"></script>
 
 <h1> Welcome to my Profile👋</h1>
 
