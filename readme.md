@@ -10,7 +10,7 @@
   <h3> Contact </h3>
   
   <Center> <img src="https://discord.c99.nl/widget/theme-3/562537207517413376.png" </img> </center>
-https://github-readme-stats.vercel.app/api?username=MasterPanda61&show_icons=true&theme=tokyonight
+<center> <img src="https://github-readme-stats.vercel.app/api?username=MasterPanda61&show_icons=true&theme=tokyonight"</img></center>
 
 
   
