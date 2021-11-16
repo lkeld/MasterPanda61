@@ -11,6 +11,11 @@
   <p align="center"
 <img src="https://discord.c99.nl/widget/theme-3/562537207517413376.png" />
   </p>
+  
+  <p align="center">
+  <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" alt="Sublime's custom image"/>
+</p>
+  
   <p align="center"
 <img src="https://github-readme-stats.vercel.app/api?username=MasterPanda61&show_icons=true&theme=tokyonight"/>
   </p>
