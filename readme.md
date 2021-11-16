@@ -5,8 +5,15 @@
 
 <h3> I'm a 15 y/o developer <h3>
   
-  <h3> im still making this thing its not done yet i just forgor 💀 about it </h3>
-
+  <h3>More About Me:</h3>
+   
+  - HTML, CSS, Javascript and Python
+  - Australian
+  - Learning Pen Testing 
+  <h2> Contact: <h2> 
+    
+  
+  
   <p align="center">
   <img src="https://discord.c99.nl/widget/theme-3/562537207517413376.png"/>
   </p>
