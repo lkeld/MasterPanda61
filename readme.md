@@ -1,3 +1,5 @@
+
+
 <h1> Welcome to my Profile👋</h1>
 
 <h2> 🚀About Me </h2>
@@ -8,7 +10,7 @@
 
   <h3> Contact </h3>
   
-  
+  <i class="fab fa-discord"></i>
   
   <Center> <img src="https://discord.c99.nl/widget/theme-3/562537207517413376.png" </img> </center>
 
