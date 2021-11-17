@@ -12,7 +12,7 @@
   - Learning Pen Testing 
   <h2> Contact: <h2> 
    
-<img src="https://seeklogo.com/images/D/discord-icon-new-2021-logo-09772BF096-seeklogo.com.png" alt="Discord Logo" style="width:128px;height:128px;">
+<img src="https://seeklogo.com/images/D/discord-icon-new-2021-logo-09772BF096-seeklogo.com.png" alt="Discord Logo" style="width:64px;height:64px;">
   
   <p align="center">
   <img src="https://discord.c99.nl/widget/theme-3/562537207517413376.png"/>
