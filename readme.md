@@ -23,7 +23,7 @@
 </p>
     
  <p align="center">
-   <img src="https://komarev.com/ghpvc/?username=MasterPanda61&style=flat />
+   <img src="https://komarev.com/ghpvc/?username=MasterPanda61&style=flat&color=red" />
              </p>
 
   
