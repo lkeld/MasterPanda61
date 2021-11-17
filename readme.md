@@ -11,7 +11,7 @@
   - Australian
   - Learning Pen Testing 
   <h2> Contact: <h2> 
-    <img src="https://seeklogo.com/images/D/discord-icon-new-2021-logo-09772BF096-seeklogo.com.png" alt="discord logo"
+   
   
   
   <p align="center">
