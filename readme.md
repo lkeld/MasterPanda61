@@ -11,9 +11,9 @@
   - Australian
   - Learning Pen Testing 
   <h2> Contact: <h2> 
-   
+   <h3> luke.#9999 </h3>
 <img src="https://cdn.freelogovectors.net/svg09/discord_logo-freelogovectors.net_.svg" alt="Discord Logo" style="width:64px;height:64px;">
-    <h3> luke.#9999
+
   
   <p align="center">
   <img src="https://discord.c99.nl/widget/theme-3/562537207517413376.png"/>
