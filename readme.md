@@ -11,7 +11,6 @@
   - Australian
   - Learning Pen Testing 
   <h2> Contact: <h2> 
-  
 <h3> Discord: luke.#9999 </h3>
 <h3> Instagram: lk.eld </h3>
 <h3> Snapchat: lke.ld </h3>
