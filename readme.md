@@ -12,10 +12,10 @@
   - Learning Pen Testing 
   <h2> Contact: <h2> 
   
- <img src="https://cdn.freelogovectors.net/svg09/discord_logo-freelogovectors.net_.svg" alt="Discord Logo" style="width:64px;height:64px;"> <h3> luke.#9999 </h3>
- <img src="https://i2.wp.com/davidmeessen.com/wp-content/uploads/2020/09/ew-instagram-logo-transparent-related-keywords-logo-instagram-vector-2017-115629178687gobkrzwak.png?ssl=1" alt="Discord Logo" style="width:64px;height:64px;">  <h3> lk.eld </h3>
-<img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c536.png" alt="Discord Logo" style="width:64px;height:64px;"> <h3> lke.ld </h3>
-<img src="https://cdn.iconscout.com/icon/free/png-256/github-153-675523.png" alt="Discord Logo" style="width:64px;height:64px;"> <h3> MasterPanda61</h3>
+<h3> Discord: luke.#9999 </h3>
+<h3> Instagram: lk.eld </h3>
+<h3> Snapchat: lke.ld </h3>
+<h3> Github: MasterPanda61</h3>
   
   <p align="center">
   <img src="https://discord.c99.nl/widget/theme-3/562537207517413376.png"/>
