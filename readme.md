@@ -12,7 +12,8 @@
   - Learning Pen Testing 
   <h2> Contact: <h2> 
 <div>
-<img src="https://cdn.freelogovectors.net/svg09/discord_logo-freelogovectors.net_.svg" alt="Discord Logo" style="width:64px;height:64px;"> <h3> luke.#9999 </h3>
+<img src="https://cdn.freelogovectors.net/svg09/discord_logo-freelogovectors.net_.svg" alt="Discord Logo" style="width:64px;height:64px;">
+  <h3> luke.#9999 </h3>
     </div>
   
   <p align="center">
