@@ -3,7 +3,7 @@
 
 <h2> 🚀About Me </h2>
 
-<h3> I'm a 15 y/o developer from Australia <h3>
+<h3> I'm a 14 y/o developer from Australia <h3>
   
   <h3>More About Me:</h3>
    
